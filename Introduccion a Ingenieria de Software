@@ -1,12 +1,35 @@
 
-Que es la ingenieria de software
+Que es la ingenieria de software?:
 
 Es un marco de trabajo para solucionar problemas a traves de un software 
 
-SOFTWARE  
+SOFTWARE:  
 Conjunto de programas de computadoras, escritos en uno o mas lenguajes de programacion los 
 cuales permiten gestionar la informacion necesaria para apoyar las decisiones de un cliente.
 
 HARDWARE
 MAQUINA 
 
+De donde nace la ingenieria de software? ----> CRISIS
+
+Las grandes universidades se reunieron para generar un marco referencial en torno al tema.
+
+Propuesta:
+
+1.- Definir areas de conocimiento
+2.- Definir con claridad los procesos que intervienen en el desarrollo, mantenimiento y operacion de sofware.
+3.- Extraer modelos
+4.- Definir criterios unificados para las diversas tareas involucradas en el software.
+
+"El software es un producto que se construye"
+Pasos clave: análisis, diseño, construcción, pruebas y mantención.
+
+Ciclo de vida del software:
+Definicion - Desarrollo - Operacion - Soporte - Retiro
+
+ISO 12207 
+Procesos principales, de soporte y organización.
+
+Metodologias en el desarrollo 
+
+Clasicas y agiles 
